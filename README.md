@@ -1,2 +1,2 @@
-# rgit-olympia-backend
+# RGIT-Olympia-backend
 Backend Repository for RGIT Olympia project
